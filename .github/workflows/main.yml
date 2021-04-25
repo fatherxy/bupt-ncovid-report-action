@@ -1,4 +1,4 @@
-name: Automatically submit the 2019-nCoV report sheet of BUPT
+name: Automatically  submit the 2019-nCoV report sheet of BUPT
 
 on:
   schedule:
